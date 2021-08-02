@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/Thiagoow/API-JsonServer-OverJob-ThiagoSilvaLopes.git"
   },
   "keywords": [],
   "author": "Thiago Silva Lopes",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Thiagoow/API-JsonServer-OverJob-ThiagoSilvaLopes/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Thiagoow/API-JsonServer-OverJob-ThiagoSilvaLopes#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   }
