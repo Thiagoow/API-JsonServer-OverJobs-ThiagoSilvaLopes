@@ -9,7 +9,7 @@
 Sendo utilizada no projeto -> <a href="">
 OverJob - </a>
 
-## Demo: https://api-overjob-thiagosilvalopes.herokuapp.com/jobs
+## Demo: https://api-overjobs-thiagosilvalopes.herokuapp.com/jobs
 
 ##### Para instalar o projeto localmente, com a pasta "node_modules":
 
