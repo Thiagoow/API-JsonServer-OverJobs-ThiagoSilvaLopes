@@ -3,13 +3,13 @@
 <img src="./ReadMeFiles/app.jpg" align="center">
 </div>-->
 
-# API com JsonServer para o projeto -> iBook
+# API com JsonServer para o projeto -> OverJob
 
-<p>Essa API Rest foi feita por: <strong>Thiago Silva Lopes</strong>, em 06/2021.</br>
-Sendo utilizada no projeto -> <a href="https://github.com/Thiagoow/NuxtJs-IbookProject-ScalingVue">
-iBook - Plataforma de leitura online para livros digitais</a>
+<p>Essa API Rest foi feita por: <strong>Thiago Silva Lopes</strong>, em 08/2021.</br>
+Sendo utilizada no projeto -> <a href="">
+OverJob - </a>
 
-## Demo: https://api-ibook-thiagosilvalopes.herokuapp.com/books
+## Demo:
 
 ##### Para instalar o projeto localmente, com a pasta "node_modules":
 
