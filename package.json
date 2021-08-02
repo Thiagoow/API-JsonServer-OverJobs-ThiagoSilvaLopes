@@ -1,0 +1,23 @@
+{
+  "name": "overjob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch jobs.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [],
+  "author": "Thiago Silva Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
