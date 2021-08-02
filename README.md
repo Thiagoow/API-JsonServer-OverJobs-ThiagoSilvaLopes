@@ -3,11 +3,11 @@
 <img src="./ReadMeFiles/app.jpg" align="center">
 </div>-->
 
-# API com JsonServer para o projeto -> OverJob
+# API com JsonServer para o projeto -> OverJobs
 
 <p>Essa API Rest foi feita por: <strong>Thiago Silva Lopes</strong>, em 08/2021.</br>
 Sendo utilizada no projeto -> <a href="">
-OverJob - </a>
+OverJobs - Plataforma fictícia de vagas e oportunidades profissionais</a>
 
 ## Demo: https://api-overjobs-thiagosilvalopes.herokuapp.com/jobs
 
